@@ -6,7 +6,7 @@ namespace Rock_Paper_Scissors
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
         }
     }
 }
